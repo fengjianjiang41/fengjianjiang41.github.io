@@ -1,0 +1,13 @@
+# Add, remove, or reorder projects here.
+- title: Visibility estimation from photos and physics
+  url: https://github.com/fengjianjiang41/Visibility-Estimation-Based-on-Photos-and-Physics
+  field: Vision + physics
+  text: Estimates atmospheric visibility by fusing what a camera sees with physical models of how light scatters through haze. Final project for a computer vision and deep learning course.
+- title: Numerical fluid dynamics
+  url: https://github.com/fengjianjiang41/Fluid-Dynamics-Homework
+  field: Simulation
+  text: Numerical simulations of flow problems, written in Python for a fluid dynamics course.
+- title: Atmospheric data analysis
+  url: https://github.com/fengjianjiang41/Atmosperic_Report
+  field: Data
+  text: The analysis code behind a report on atmospheric observations, from raw data to figures.

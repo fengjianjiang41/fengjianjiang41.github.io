@@ -1,0 +1,8 @@
+# Your path, oldest first. The item with `now: true` gets the highlighted dot.
+- title: B.S., School of Physics, Peking University
+  note: Fluid dynamics, numerical simulation, atmospheric data.
+- title: M.S., Graduate School of Culture Technology, KAIST
+  note: Moving from simulating physical systems to building interactive ones.
+- title: Researcher, LAVA Lab, KAIST
+  note: Modeling, animating, and simulating avatars, characters, and virtual agents, with Prof. Sung-Hee Lee.
+  now: true

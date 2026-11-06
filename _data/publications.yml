@@ -1,0 +1,7 @@
+# Leave this list empty and the Publications section stays hidden.
+# To add one, replace [] with entries like:
+# - title: "Paper title"
+#   authors: "Fengjian Jiang, Co-author, Sung-Hee Lee"
+#   venue: "Conference or journal, 2026"
+#   url: https://example.com/paper
+[]

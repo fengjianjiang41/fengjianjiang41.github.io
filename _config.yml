@@ -1,0 +1,16 @@
+# Site settings. GitHub Pages reads this file and builds the site automatically.
+title: Fengjian Jiang
+tagline: I started out simulating air and water. Now I work on digital humans.
+description: Researcher at KAIST LAVA Lab. Physics, computer graphics, AI, and games.
+url: "https://fengjianjiang41.github.io"
+baseurl: ""
+
+github_username: fengjianjiang41
+email: ""            # add your email here to show it in the footer
+location: Daejeon
+timezone_label: KST
+timezone: Asia/Seoul
+
+markdown: kramdown
+exclude:
+  - README.md
